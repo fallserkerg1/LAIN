@@ -1,0 +1,65 @@
+body{
+	background-color: black;
+	margin: 0;
+	padding: 0;
+	letter-spacing:8px;
+	font-smooth: never;
+	-webkit-font-smoothing : none;
+	text-align:center;
+}
+
+#contenedor{
+	background-color: silver;
+	margin: auto;
+	width: 80%;
+}
+
+#obj1 {
+	font-size: 10px;
+	font-family: arial;
+	letter-spacing: 3px;
+	text-align: right;
+	border: 0;
+	margin: 0px 0px 30px 50px;
+}
+
+header{
+	background-color: grey;
+	height: 200px;
+	padding: 50px;
+}
+
+footer{
+	background-color: grey;
+	height: 500px;
+	padding: 50px;
+}
+
+.content{
+	padding: 10px;
+}
+
+nav{
+	background-color: grey;
+}
+
+nav li{
+	display: inline-block;
+	padding: 10px;
+	height: 20px;
+}
+
+nav li a{
+	color: white;
+	text-decoration: none;
+}
+
+nav li:hover{
+	background-color: white;
+	color: red;
+}
+
+nav li a:hover{
+	color: red;
+}
+

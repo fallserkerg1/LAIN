@@ -1,0 +1,38 @@
+body{
+	background-color: black;
+	margin: 0;
+	padding: 0;
+	letter-spacing:8px;
+	text-align:center;
+}
+
+#contenedor{
+	background-color: white;
+	width: 80%;
+	margin: auto;
+}
+/* hhaha*/
+
+header{
+	background-color: silver;
+	padding: 50px;
+	height: 100px;
+}
+
+aside{
+	background-color: grey;
+	padding: 20px;
+	height: 20px;
+}
+
+a:hover{
+	background-color: white;
+	height: 20px;
+	text-decoration: none;
+}
+
+footer{
+	background-color: silver;
+	padding: 50px;
+	height: 300px;
+}
